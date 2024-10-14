@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tivebuwubie.pages.dev/sitemap.xml
